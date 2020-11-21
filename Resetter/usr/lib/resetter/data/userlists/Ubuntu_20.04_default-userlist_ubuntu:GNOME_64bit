@@ -43,6 +43,5 @@ pulse
 gnome-initial-setup
 gdm
 systemd-coredump
-mysql
 root
 nobody
